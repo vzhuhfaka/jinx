@@ -1,0 +1,18 @@
+.login {
+    cursor: pointer;
+}
+.menu-item {
+    border-width: 1px;
+    border-radius: 3px;
+    cursor: pointer;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #3d5852;
+    color: #f5f5f5;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.menu-item:hover {
+    background-color: #c7c7b8;
+    color: black;
+    scale: 1.1;
+}
